@@ -2,15 +2,6 @@
 
 I'm a FullStack Developer and Entrepreneur
 
-My personal projects:
-- [Okdatos](https://okdatos.com/)
-- [Vida Recetas](https://vidarecetas.com/en)
-- [Blender Deluxe](https://blenderdeluxe.com/en)
-- [CG Blender Market](https://cgblendermarket.com/)
-- [VetiCore](https://veticore.com/)
-- [PsyCare](https://psycaredesk.com/)
-- [Top Services PH](https://topservicesph.com/)
-- [Clases Personalizadas](https://clasespersonalizadas.com/)
 
 ## My Skills Include
 
